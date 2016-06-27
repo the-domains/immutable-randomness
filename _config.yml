@@ -1,0 +1,14 @@
+layout_spectrum: 0.37757571088150144
+typography_spectrum: 0.6917539830319583
+color:
+  brandStrength: 0.2111080267932266
+  lightness: 0.41972084366716444
+  saturation: 0.3978623761795461
+  rhythmicContrast: 0.48918537073768675
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: immutable randomness
